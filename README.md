@@ -2,3 +2,5 @@
 `npm run typeorm migration:create -- -n CreateUsersTable`.
 
 Mysql nao gosta de receber funções no atributo `DEFAULT`. Para poder usar a função `UUID()` devemos passar ela entre parentesis: `(UUID())`.
+
+Adicionando uma linha para poder fazer o PR.
